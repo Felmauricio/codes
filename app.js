@@ -1,2 +1,1 @@
-console.log ("Rodando o sistema no repositório)
-             
+console.log ("Rodando o sistema no repositório")
