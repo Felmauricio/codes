@@ -5,6 +5,6 @@
 Para rodar esse projeto em seu computador, por favor digite:
 
 ***
-npm install react
+node app.js
 ***
 
